@@ -1,2 +1,5 @@
-# ai-data-annotation-services
-Enterprise AI Data Annotation Services | Bounding Box | Polygon | Semantic Segmentation | Video Annotation | OCR | Computer Vision Datasets
+README.md
+Capability Profile.pdf
+10–20 annotated sample images
+A few example output files (YOLO, COCO, etc.)
+Contact information
