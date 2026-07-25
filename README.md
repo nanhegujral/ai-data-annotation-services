@@ -61,9 +61,8 @@ https://www.precisebposolution.com/data-labeling-services.html
 Email: info@precisebposolution.com
 
 ---
-
 ## Capability Profile
 
-📄 Download our complete Enterprise AI Data Annotation & Data Labeling Capability Profile:
+The complete Enterprise AI Data Annotation & Data Labeling Capability Profile is available in this repository.
 
-PRECISE_BPO_Solution_AI_Data_Annotation_Capability_Profile.pdf
+📄 **PRECISE_BPO_Solution_AI_Data_Annotation_Capability_Profile.pdf**
