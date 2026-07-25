@@ -52,9 +52,9 @@ Enterprise-quality AI Data Annotation and Data Labeling services for Computer Vi
 
 ---
 
-## Website
+## Data Labeling Services
 
-https://precisebposolution.com
+https://www.precisebposolution.com/data-labeling-services.html
 
 ## Contact
 
