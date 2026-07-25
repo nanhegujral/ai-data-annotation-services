@@ -62,4 +62,8 @@ Email: info@precisebposolution.com
 
 ---
 
-⭐ More annotation examples, workflows, AI datasets and the complete capability profile will be added soon.
+## Capability Profile
+
+📄 Download our complete Enterprise AI Data Annotation & Data Labeling Capability Profile:
+
+PRECISE_BPO_Solution_AI_Data_Annotation_Capability_Profile.pdf
